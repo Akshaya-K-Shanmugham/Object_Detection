@@ -21,19 +21,30 @@ A comprehensive computer vision system that combines YOLOv8-based object detecti
 
 4)Visual bounding box display with class labels
 
+
 =>Face Recognition
 
 1)Real-time face detection and recognition
+
 2)Support for multiple known faces
+
 3)Display of recognized names with bounding boxes
+
 4)Unknown face handling
+
 5)Face distance comparison for better accuracy
+
 
 🛠️ Requirements:
 
 Python 3.x
+
 OpenCV (cv2)
+
 YOLOv8 ONNX model
+
 face_recognition
+
 numpy
+
 imread_from_url (for image URL processing)
