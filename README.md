@@ -6,12 +6,19 @@ A comprehensive computer vision system that combines YOLOv8-based object detecti
 🌟 Features
 
 =>Object Detection:
+
 1)Real-time object detection using YOLOv8
+
 2)Support for multiple input sources:
+
                                   *Webcam feed
+                                  
                                   *Local video files
+                                  
                                   *Static images
+                                  
 3)Adjustable confidence and IOU thresholds
+
 4)Visual bounding box display with class labels
 
 =>Face Recognition
